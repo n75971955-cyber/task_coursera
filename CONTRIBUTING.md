@@ -1,0 +1,3 @@
+# Contributing to the project
+
+To contribute to the project, follow these steps...
